@@ -1,0 +1,43 @@
+.navbar {
+    margin-bottom: 20px;
+    }
+    
+    .navbar-brand,
+    .navbar-nav li a {
+      font-weight: bold;
+      color: #ece0e0 !important;
+    }
+    
+    .navbar-nav li a:hover {
+      color: #888581 !important;
+    }
+    
+    .bg-primary {
+      background-color: #03172c !important;
+    }
+    
+    .navbar-toggler-icon {
+      background-image: url('https://cdn4.iconfinder.com/data/icons/wirecons-free-vector-icons/32/menu-alt-512.png');
+      width: 20px;
+      height: 20px;
+    }
+    
+
+.container {
+    margin-top: 50px;
+}
+h1 {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.footer {
+	background-color: #03172c;
+	color: #fff;
+	padding: 30px 0;
+}
+.footer p {
+	text-align: left;
+	margin-bottom: 0;
+	color: #ece0e0;
+}	
